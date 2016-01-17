@@ -1,0 +1,17 @@
+{
+  "name": "angular-app-gulp",
+  "version": "0.0.1",
+  "description": "Prueba para hacer la primera aplicación con AngularJS",
+  "bugs": {
+    "url": "",
+    "email": "raulabarka@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Raúl Abarca <raulabarka@gmail.com> - http://raulabarca.com",
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/raulabarca/site"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+}
