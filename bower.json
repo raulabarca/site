@@ -2,5 +2,10 @@
   "name": "angular-app-gulp",
   "version": "0.0.1",
   "description": "Prueba para hacer la primera aplicación con AngularJS",
-  "dependencies": {}
+  "dependencies": {
+    "angular": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "angular-route": "~1.4.9",
+    "angular-resource": "~1.4.9"
+  }
 }
